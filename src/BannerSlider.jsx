@@ -16,7 +16,7 @@ const BannerSlider = () => {
       subtitle: "Comfort built to last, Branding built to stay.",
       buttonText: "Shop Now",
       background: "linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%)",
-      imageUrl: "./src/img1.png",
+      imageUrl: "/images/img1.png",
       showTextOverlay: false,
       isDefault: true
     },

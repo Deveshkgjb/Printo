@@ -10,7 +10,7 @@ const PopularCategories = () => {
     {
       id: 1,
       name: "Apparel",
-      imageUrl: "/src/App_1753334972-1.webp"
+      imageUrl: "/images/App_1753334972-1.webp"
     },
     {
       id: 2,
@@ -45,7 +45,7 @@ const PopularCategories = () => {
     {
       id: 8,
       name: "Photo Gifts",
-      imageUrl: "./src/App_1753334972.webp"
+      imageUrl: "/images/App_1753334972.webp"
     }
   ];
 
