@@ -6,42 +6,42 @@ const ShopByBusinessNeeds = () => {
     {
       id: 1,
       name: "For Startups",
-      imageUrl: "./src/img2/Startups_1753853634.webp"
+      imageUrl: "/images/Startups_1753853634.webp"
     },
     {
       id: 2,
       name: "Events & Promotions",
-      imageUrl: "./src/img2/Event_1753853634.webp"
+      imageUrl: "/images/Event_1753853634.webp"
     },
     {
       id: 3,
       name: "Cafe And Restaurant Essentials",
-      imageUrl: "./src/img2/Cafe_1753853634.webp"
+      imageUrl: "/images/Cafe_1753853634.webp"
     },
     {
       id: 4,
       name: "Employee Engagement",
-      imageUrl: "./src/img2/1_1754130220.webp"
+      imageUrl: "/images/1_1754130220.webp"
     },
     {
       id: 5,
       name: "Corporate Branding",
-      imageUrl: "./src/img2/2222_1757444411.webp"
+      imageUrl: "/images/2222_1757444411.webp"
     },
     {
       id: 6,
       name: "Marketing Materials",
-      imageUrl: "./src/img2/yellow-1_1757444411.webp"
+      imageUrl: "/images/yellow-1_1757444411.webp"
     },
     {
       id: 7,
       name: "Product Packaging",
-      imageUrl: "./src/img2/1440_1754641764.webp"
+      imageUrl: "/images/1440_1754641764.webp"
     },
     {
       id: 8,
       name: "Custom Solutions",
-      imageUrl: "./src/img2/Diwali_1758103957.webp"
+      imageUrl: "/images/Diwali_1758103957.webp"
     }
   ];
 

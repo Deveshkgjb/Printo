@@ -10,42 +10,42 @@ const BestSellers = () => {
     {
       id: 1,
       name: "Shop Business cards",
-      imageUrl: "./src/img2/Startups_1753853634.webp"
+      imageUrl: "/images/Startups_1753853634.webp"
     },
     {
       id: 2,
       name: "Shop Posters",
-      imageUrl: "./src/img2/Event_1753853634.webp"
+      imageUrl: "/images/Event_1753853634.webp"
     },
     {
       id: 3,
       name: "Shop Booklets",
-      imageUrl: "./src/img2/Cafe_1753853634.webp"
+      imageUrl: "/images/Cafe_1753853634.webp"
     },
     {
       id: 4,
       name: "Shop Flyers",
-      imageUrl: "./src/img2/1_1754130220.webp"
+      imageUrl: "/images/1_1754130220.webp"
     },
     {
       id: 5,
       name: "Shop Acrylic Prints",
-      imageUrl: "./src/img2/2222_1757444411.webp"
+      imageUrl: "/images/2222_1757444411.webp"
     },
     {
       id: 6,
       name: "Shop Cards",
-      imageUrl: "./src/img2/yellow-1_1757444411.webp"
+      imageUrl: "/images/yellow-1_1757444411.webp"
     },
     {
       id: 7,
       name: "Shop Stickers",
-      imageUrl: "./src/img2/1440_1754641764.webp"
+      imageUrl: "/images/1440_1754641764.webp"
     },
     {
       id: 8,
       name: "Shop Hoodies",
-      imageUrl: "./src/img2/Diwali_1758103957.webp"
+      imageUrl: "/images/Diwali_1758103957.webp"
     }
   ];
 
