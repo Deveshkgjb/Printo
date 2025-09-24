@@ -15,32 +15,32 @@ const PopularCategories = () => {
     {
       id: 2,
       name: "Awards & Trophies",
-      imageUrl: "/src/Images/Awa_1754231245.webp"
+      imageUrl: "/images/Awa_1754231245.webp"
     },
     {
       id: 3,
       name: "Business Stationery",
-      imageUrl: "/src/Images/Stationeryv_1754033693.webp"
+      imageUrl: "/images/Stationeryv_1754033693.webp"
     },
     {
       id: 4,
       name: "Corporate Gifts",
-      imageUrl: "/src/Images/Corporate-gifts_1754033787.webp"
+      imageUrl: "/images/Corporate-gifts_1754033787.webp"
     },
     {
       id: 5,
       name: "Drinkware",
-      imageUrl: "/src/Images/Marketing_1753334972.webp"
+      imageUrl: "/images/Marketing_1753334972.webp"
     },
     {
       id: 6,
       name: "Packaging",
-      imageUrl: "/src/Images/Photo_1754231245.webp"
+      imageUrl: "/images/Photo_1754231245.webp"
     },
     {
       id: 7,
       name: "Signs & Marketing",
-      imageUrl: "/src/Images/1v_1754230303.webp"
+      imageUrl: "/images/1v_1754230303.webp"
     },
     {
       id: 8,

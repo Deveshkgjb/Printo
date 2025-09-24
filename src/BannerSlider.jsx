@@ -26,7 +26,7 @@ const BannerSlider = () => {
       subtitle: "Celebrate the festival of lights with us.",
       buttonText: "Shop Now",
       background: "linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%)",
-      imageUrl: "/src/Images/Diwali-Desk_1756794212.webp",
+      imageUrl: "/images/Diwali-Desk_1756794212.webp",
       showTextOverlay: false,
       isDefault: true
     },
@@ -36,7 +36,7 @@ const BannerSlider = () => {
       subtitle: "Make every Introduction Memorable.",
       buttonText: "Shop Now",
       background: "linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%)",
-      imageUrl: "/src/Images/Business-cards-Desk_1756794368.webp",
+      imageUrl: "/images/Business-cards-Desk_1756794368.webp",
       showTextOverlay: false,
       isDefault: true
     }

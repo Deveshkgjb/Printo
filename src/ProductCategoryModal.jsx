@@ -242,10 +242,10 @@ const ProductCategoryModal = ({ isOpen, onClose, categoryData }) => {
 
               <div className="featured-models">
                 <div className="model-image">
-                  <img src="/src/App_1753334972.webp" alt="Model 1" />
+                  <img src="/images/App_1753334972.webp" alt="Model 1" />
                 </div>
                 <div className="model-image">
-                  <img src="/src/App_1753334972.webp" alt="Model 2" />
+                  <img src="/images/App_1753334972.webp" alt="Model 2" />
                 </div>
               </div>
 
@@ -288,7 +288,7 @@ const ProductCategoryModal = ({ isOpen, onClose, categoryData }) => {
 
               <div className="featured-models">
                 <div className="model-image">
-                  <img src="/src/App_1753334972.webp" alt="Polo Model" />
+                  <img src="/images/App_1753334972.webp" alt="Polo Model" />
                 </div>
               </div>
 
@@ -296,7 +296,7 @@ const ProductCategoryModal = ({ isOpen, onClose, categoryData }) => {
                 <div className="product-card">
                   <div className="product-image-container">
                     <img 
-                      src="/src/App_1753334972.webp" 
+                      src="/images/App_1753334972.webp" 
                       alt="Dry Fit Polo"
                       className="product-image"
                     />
@@ -315,7 +315,7 @@ const ProductCategoryModal = ({ isOpen, onClose, categoryData }) => {
                 <div className="product-card">
                   <div className="product-image-container">
                     <img 
-                      src="/src/App_1753334972.webp" 
+                      src="/images/App_1753334972.webp" 
                       alt="Black Polo"
                       className="product-image"
                     />
@@ -333,7 +333,7 @@ const ProductCategoryModal = ({ isOpen, onClose, categoryData }) => {
                 <div className="product-card">
                   <div className="product-image-container">
                     <img 
-                      src="/src/App_1753334972.webp" 
+                      src="/images/App_1753334972.webp" 
                       alt="Grey Polo"
                       className="product-image"
                     />
