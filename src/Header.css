@@ -1,0 +1,99 @@
+.header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.header-top-strip {
+  height: 4px;
+  background-color: #4b5563;
+  width: 100%;
+}
+
+.header-container {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 0.25rem;
+}
+
+@media (min-width: 640px) {
+  .header-container {
+    padding: 0 0.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .header-container {
+    padding: 0 0.75rem;
+  }
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 3rem;
+  padding: 0.75rem 0;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.header-link {
+  color: #4b5563;
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.header-link:hover {
+  color: #111827;
+}
+
+.header-link-purple {
+  color: #7c3aed;
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.header-link-purple:hover {
+  color: #6d28d9;
+}
+
+.header-link-with-icon {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.header-icon {
+  width: 1rem;
+  height: 1rem;
+  fill: currentColor;
+}
+
+.header-button {
+  background-color: #f97316;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.header-button:hover {
+  background-color: #ea580c;
+}

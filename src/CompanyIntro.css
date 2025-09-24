@@ -1,0 +1,61 @@
+.company-intro {
+  background-color: #ffffff;
+  padding: 4rem 0;
+}
+
+.company-container {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 0.125rem;
+}
+
+@media (min-width: 640px) {
+  .company-container {
+    padding: 0 0.25rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .company-container {
+    padding: 0 0.375rem;
+  }
+}
+
+.company-content {
+  text-align: center;
+}
+
+.company-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #1f2937;
+  margin-bottom: 2rem;
+  line-height: 1.2;
+}
+
+.company-text {
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+.company-paragraph {
+  font-size: 1.125rem;
+  color: #4b5563;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+.company-paragraph:last-child {
+  margin-bottom: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .company-title {
+    font-size: 2rem;
+  }
+  
+  .company-paragraph {
+    font-size: 1rem;
+  }
+}
